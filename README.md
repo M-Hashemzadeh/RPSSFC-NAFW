@@ -16,6 +16,19 @@ Comments are written for all steps of the algorithm for better understanding the
 
 To evaluate the proposed method, the UCI benchmark datasets have been used. 
 
+## Condition and terms to use any sources of this project (Codes, Datasets, etc.):
+
+1) Please cite the following papers:
+
+[1] M. Hashemzadeh, A. Golzari Oskouei, and N. Farajzadeh, "New fuzzy C-means clustering method based on feature-weight and cluster-weight learning," Applied Soft Computing, vol. 78, pp. 324-345, 2019/05/01/ 2019, doi: https://doi.org/10.1016/j.asoc.2019.02.038.
+
+[2] A. Golzari Oskouei, M. Hashemzadeh, B. Asheghi, and M. A. Balafar, "CGFFCM: Cluster-weight and Group-local Feature-weight learning in Fuzzy C-Means clustering algorithm for color image segmentation," Applied Soft Computing, vol. 113, p. 108005, 2021/12/01/ 2021, doi: https://doi.org/10.1016/j.asoc.2021.108005.
+
+[3] A. Golzari Oskouei and M. Hashemzadeh, "CGFFCM: A color image segmentation method based on cluster-weight and feature-weight learning," Software Impacts, vol. 11, p. 100228, 2022/02/01/ 2022, doi: https://doi.org/10.1016/j.simpa.2022.100228.
+
+2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh.
+
+Authors’ Emails: arezounajafi@azaruniv.ac.ir (A.N. Moghadam), nasseraghazadeh[at]iyte.edu.tr (N. Aghazadeh), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh), and a.golzari[at]tabrizu.ac.ir (A. G. Oskouei)
 
 
 
